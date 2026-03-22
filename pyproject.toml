@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "swiftstack"
+version = "0.1.0"
+description = "Generate production-ready FastAPI projects from plain English"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+swiftstack = "swiftstack.cli:main"
+
+[project.urls]
+Homepage = "https://swiftstackapi.up.railway.app"
+Repository = "https://github.com/ADCarthan88/swiftstack-core"
