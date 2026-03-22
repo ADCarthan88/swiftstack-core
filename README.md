@@ -105,7 +105,7 @@ For production use you likely need:
 - HIPAA / PCI compliance field detection
 - OpenAPI spec export
 
-**→ Full hosted version: https://swiftstackapi.up.railway.app**
+**→ Full hosted version: https://swiftstackapi.com**
 
 Send a POST to `/api/generate` with your prompt — no install required.
 
