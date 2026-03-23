@@ -1,5 +1,8 @@
 # SwiftStack ⚡
 
+[![GitHub Stars](https://img.shields.io/github/stars/ADCarthan88/swiftstack-core?style=social)](https://github.com/ADCarthan88/swiftstack-core)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/ADCarthan88)
+
 **Generate production-ready FastAPI projects from plain English.**
 
 Describe your data model in natural language — get a complete, working API scaffold in seconds.
